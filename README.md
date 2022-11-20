@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CS50💻<br>💬 Ask me about Cybersecurity 🔒<br>
+🌱 I’m currently learning Computer Science💻<br>💬 Ask me about Cybersecurity 🔒<br>
 
 
 ## 🌐 Socials:
