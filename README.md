@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LUIS9799&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUIS9799&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-[![Discord Profile](https://lanyard.cnrad.dev/api/518122893389856771)](https://discord.com/users/518122893389856771)
+[![Discord Profile](https://lanyard.cnrad.dev/api/518122893389856771?animated=true&bg=0091a1&hideDiscrim=true&borderRadius=30px&idleMessage=So%20just%20doing%20something%20else...)](https://discord.com/users/518122893389856771)
 
 
 ### ✍️ Random Dev Quote
