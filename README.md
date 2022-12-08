@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=LUIS9799&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LUIS9799&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUIS9799&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://discord.com/users/518122893389856771)
+
+<div align="left">
+  <a href="https://discord.com/users/518122893389856771">
+    <img src="https://lanyard-profile-readme.vercel.app/api/518122893389856771?animated=true" align="left" height="205">
+  </a>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
