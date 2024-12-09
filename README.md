@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Online Trading 📈<br>💬 Ask me about Cybersecurity 🔒<br>
+🌱 I’m currently learning Cibersecurity<br>💬 Ask me about Cybersecurity 🔒<br>
 
 
 ## 🌐 Socials:
